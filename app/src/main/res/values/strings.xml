@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string-array name="converter_options">
+        <item>Choose one</item>
+        <item>millimeters(mm)</item>
+        <item>centimeters(cm)</item>
+        <item>meters(m)</item>
+        <item>kilometers(km)</item>
+        <item>inches(in)</item>
+        <item>feet(ft)</item>
+        <item>yards(yd)</item>
+        <item>miles(mi)</item>
+    </string-array>
+    <string name="to">to</string>
+    <string name="Convert">Convert</string>
+    <string name="noelle">noelle is the best tsundere</string>
+</resources>
